@@ -1,0 +1,18 @@
+RELATÓRIO DE VENDAS
+========================================
+
+Registros válidos: 5
+Unidades vendidas: 50
+Faturamento total: R$ 1856.00
+Custo total: R$ 889.50
+Lucro bruto total: R$ 966.50
+Margem de lucro: 52.07%
+
+DESTAQUES
+----------------------------------------
+Produto mais vendido: Amaciante 5L (15 unidades)
+Produto mais lucrativo: Limpa Pedra Brian 5L (R$ 255.50)
+
+VALIDAÇÃO DOS DADOS
+----------------------------------------
+Nenhum erro encontrado nos dados.
